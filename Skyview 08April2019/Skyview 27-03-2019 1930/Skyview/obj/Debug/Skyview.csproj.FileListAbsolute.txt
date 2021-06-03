@@ -1,0 +1,1483 @@
+E:\1-1-2019\Skyview\Skyview\bin\Debug\Skyview.exe.config
+E:\1-1-2019\Skyview\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\1-1-2019\Skyview\Skyview\obj\Debug\MultiCon_Engineer.Add_User.resources
+E:\1-1-2019\Skyview\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\1-1-2019\Skyview\Skyview\obj\Debug\Skyview.Form1.resources
+E:\1-1-2019\Skyview\Skyview\obj\Debug\Skyview.Login.resources
+E:\1-1-2019\Skyview\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\1-1-2019\Skyview\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\1-1-2019\Skyview\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\1-1-2019\Skyview\Skyview\obj\Debug\Skyview.SelectTable.resources
+E:\1-1-2019\Skyview\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.SelectTable.resources
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\15-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.SelectTable.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Salman Dosani\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.header_account.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\bin\Debug\Skyview.exe.config
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.exe
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.pdb
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.header_account.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Login.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.SelectTable.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\bin\Debug\Skyview.exe
+E:\1-1-2019\17-01-2019\16-01-2019 Latest\Skyview 15-01-2019\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.header_account.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.SelectTable.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\Salman Dosani\17-01-2019\Skyview 17-01-2019\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.header_account.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\Salman Dosani\18-01-2019\Skyview 18-01-2019\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.header_account.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\19-01-2019\Skyview 19-01-2019\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.header_account.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\21-01-2019\Skyview 19-01-2019\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.header_account.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\bin\Debug\CircularProgressBar.dll
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\bin\Debug\WinFormAnimation.dll
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\bin\Debug\CircularProgressBar.xml
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\bin\Debug\WinFormAnimation.xml
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\Salman Dosani\22-01-2019\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.circlarprogress.resources
+D:\Skyview 22-01-2019\Skyview\bin\Debug\Skyview.exe.config
+D:\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.exe
+D:\Skyview 22-01-2019\Skyview\obj\Debug\Skyview.pdb
+D:\Skyview 23-01-2019\Skyview\bin\Debug\Skyview.exe.config
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.exe
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.pdb
+D:\Skyview 23-01-2019\Skyview\bin\Debug\Skyview.exe
+D:\Skyview 23-01-2019\Skyview\bin\Debug\Skyview.pdb
+D:\Skyview 23-01-2019\Skyview\bin\Debug\CircularProgressBar.dll
+D:\Skyview 23-01-2019\Skyview\bin\Debug\WinFormAnimation.dll
+D:\Skyview 23-01-2019\Skyview\bin\Debug\CircularProgressBar.xml
+D:\Skyview 23-01-2019\Skyview\bin\Debug\WinFormAnimation.xml
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.Add_User.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.AllinOne.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.Change_Password.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.circlarprogress.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.CreateTable.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.DirectOrder.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.FoodOrder.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.header_account.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.Login.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.MainPage.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.RepViewer.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.Master_Form.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.SplashScreen.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.User_Access.resources
+D:\Skyview 23-01-2019\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\14-02-2019\BURGER LAB\Skyview 14-02-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\14-02-2019\BURGER LAB\Skyview 14-02-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\14-02-2019\BURGER LAB\Skyview 14-02-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\01-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\01-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\01-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\04-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\04-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\04-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\06-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\06-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\06-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-02-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 19-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 20-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 21-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 23-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\Salman Dosani\15-03-2019\BURGER LAB\Skyview 25-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+C:\Users\Syed Mohsin\Desktop\REDDOT WORK\SkyView\latest\sms latest\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+D:\Skyview\8-4-2019 skyview\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+C:\Users\HP\Desktop\Reddot Work\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+D:\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+D:\PIZZA5 LATEST\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+D:\EAT2NIGHT\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_view.resources
+D:\houseofgrill\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.find.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_view.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.find.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory.rpt
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory1.cs
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_view.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.export.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.find.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+D:\Otaaq updated\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_view.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.export.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.find.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory.rpt
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory1.cs
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+D:\HotnRoll sharukh\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory.rpt
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory1.cs
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_view.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.export.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.find.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvProductConsumption.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvRawProduct.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvReceipeProduct.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PaymentView.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Purchase_Sale.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.tia_viewer.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.View_Product_Stock.resources
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+D:\Chicky Town\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory.rpt
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory1.cs
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_view.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.export.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.find.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvProductConsumption.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvRawProduct.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvReceipeProduct.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PaymentView.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Purchase_Sale.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.tia_viewer.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.View_Product_Stock.resources
+D:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory.rpt
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory1.cs
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_view.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.export.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.find.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvProductConsumption.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvRawProduct.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvReceipeProduct.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PaymentView.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Purchase_Sale.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.tia_viewer.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.View_Product_Stock.resources
+E:\beacon foods\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory.rpt
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory1.cs
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AddBankDetail.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllReports.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_view.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.export.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.find.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.frmAccountbalance.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.frmChartofAccount.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvProductConsumption.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvRawProduct.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvReceipeProduct.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.LedgerView.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.overall_view.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PaymentView.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Payment_voucher.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Purchase_Sale.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Receipt_voucher.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.tia_viewer.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.View_Product_Stock.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.waiters.resources
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\POS\zaras\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory.rpt
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory1.cs
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AddBankDetail.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllReports.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_view.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.export.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.find.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.frmAccountbalance.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.frmChartofAccount.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvProductConsumption.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvRawProduct.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvReceipeProduct.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.LedgerView.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.member.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.overall_view.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PaymentView.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Payment_voucher.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Purchase_Sale.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Receipt_voucher.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.tia_viewer.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.view_close2.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.View_Product_Stock.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.waiters.resources
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\POS\bamboos\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory.rpt
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory1.cs
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AddBankDetail.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllReports.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_view.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.export.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.find.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.frmAccountbalance.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.frmChartofAccount.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvProductConsumption.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvRawProduct.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvReceipeProduct.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.LedgerView.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.member.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.overall_view.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PaymentView.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Payment_voucher.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Purchase_Sale.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Receipt_voucher.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.tia_viewer.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.view_close2.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.View_Product_Stock.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.waiters.resources
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\POS\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory.rpt
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory1.cs
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csprojResolveAssemblyReference.cache
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AddBankDetail.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllReports.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_report_view.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_view.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.export.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.find.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.frmAccountbalance.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.frmChartofAccount.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvProductConsumption.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvRawProduct.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvReceipeProduct.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.LedgerView.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.member.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.overall_view.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PaymentView.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Payment_voucher.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Purchase_Sale.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Receipt_voucher.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.tia_viewer.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.view_close2.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.View_Product_Stock.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.waiters.resources
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\POS NEW\bamboos old\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory.rpt
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\bin\Debug\Reports\Sale_Inventory1.cs
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe.config
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.exe
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\Skyview.pdb
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.dll
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.dll
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\CircularProgressBar.xml
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\bin\Debug\WinFormAnimation.xml
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AddBankDetail.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Add_User.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllinOne.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.AllReports.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Change_Password.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.circlarprogress.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CIrptViewer.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.closed_tables.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.ConnectServer.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateTable.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductInventory.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.CreateProductSale.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Customer_info.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.deal.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.DirectOrder.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_report_view.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.expense_view.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.export.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.find.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.FoodOrder.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.frmAccountbalance.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.frmChartofAccount.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.header_account.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvProductConsumption.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvRawProduct.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.InvReceipeProduct.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.LedgerView.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Login.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.MainPage.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.member.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Orders.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.order_check.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.overall_view.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PaymentView.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Payment_voucher.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PRS.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PrintReceipt.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseVoucher1cs.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Purchase_Sale.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_frm.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.PurchaseViewer.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Receipt_voucher.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SaleByProductViewer.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_inv_rpt_viewer.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Pur_Vchr_Srch.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RemainingPayment.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.RepViewer.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Master_Form.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.Properties.Resources.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.SplashScreen.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.tia_viewer.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.token_view.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.User_Access.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.viewer_of_table_close.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.view_close2.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.View_Product_Stock.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.waiters.resources
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.csproj.GenerateResource.Cache
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.exe
+E:\POS NEW\bamboos new\Skyview 08April2019\Skyview 27-03-2019 1930\Skyview\obj\Debug\Skyview.pdb
